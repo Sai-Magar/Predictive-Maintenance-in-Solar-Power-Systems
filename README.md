@@ -41,10 +41,3 @@ This project focuses on developing a predictive maintenance model for solar powe
 
 ## Conclusion:
 This project provides a comprehensive approach to predictive maintenance for solar power systems, utilizing data-driven insights to enhance operational efficiency, reduce downtime, and improve overall energy output.
-"""
-
-# Saving the README content to a text file
-with open("/mnt/data/README.md", "w") as file:
-    file.write(readme_content)
-
-"/mnt/data/README.md"  # Returning the path to the generated README file
